@@ -4,7 +4,8 @@ Simple, quick calculator made with HTML, CSS, and JavaScript in just 30 minutes
 
 A **simple calculator** I made in my free time using **HTML, CSS, and JavaScript**—built in just **30 minutes**!  
 
-calculator.png
+![Calculator Screenshot](calculator.png)
+
 
 ## Features
 - Performs basic arithmetic: addition, subtraction, multiplication, and division
